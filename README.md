@@ -1,10 +1,10 @@
 # 2018Sendai_Indoor_Localization
 
 Collaborators:
-  Itaru Abe
-  Shizuki Goto
-  Ryoichiro Hayasaka
-  Hannah Horner
+  Itaru Abe,
+  Shizuki Goto,
+  Ryoichiro Hayasaka,
+  Hannah Horner,
   Eric Lybrand
 
 This repository includes code that can be used for indoor localization using a dynamic path loss model. Please see
